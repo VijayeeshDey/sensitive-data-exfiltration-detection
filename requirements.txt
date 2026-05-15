@@ -1,0 +1,4 @@
+suricata
+curl
+netcat
+base64
