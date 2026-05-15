@@ -1,0 +1,9 @@
+05/15/2026-22:40:36.206116  [**] [1:1000001:1] Sensitive Data Exfiltration Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.11.129:45170 -> 192.168.11.152:8080
+
+05/15/2026-22:40:36.206116  [**] [1:1000002:1] HTTP POST Request Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.11.129:45170 -> 192.168.11.152:8080
+
+05/15/2026-22:40:36.206116  [**] [1:1000003:1] Sensitive Keyword Detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.11.129:45170 -> 192.168.11.152:8080
+
+05/15/2026-22:44:26.872029  [**] [1:1000005:1] Large Outbound Transfer [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.11.129:49440 -> 192.168.11.152:8080
+
+05/15/2026-22:44:30.047672  [**] [1:1000004:1] Possible Base64 Exfiltration [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.11.129:36232 -> 192.168.11.152:8080
